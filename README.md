@@ -1,1 +1,1 @@
-"# C_to_F" 
+# This is a tool that Celsius to Fahrenheit.
